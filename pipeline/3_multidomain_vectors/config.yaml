@@ -1,0 +1,3 @@
+sentence_selection: all_valid
+label_allocation: equal
+attention_weighting: false
